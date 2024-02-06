@@ -6,3 +6,4 @@ export const Gallery = styled.ul`
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 10px; 
 `
+
